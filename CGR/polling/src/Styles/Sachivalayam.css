@@ -1,0 +1,56 @@
+.container-fluid {
+   
+  margin: 30px;
+  padding: 30px;
+  background: #fff;
+  max-width: 90%;
+  min-height: 80vh;
+  border: 3px solid #dedddd;
+  border-radius: 7px;
+  
+  
+}
+
+
+.custom-buttons {
+ text-align: center;
+  margin-top: 20px;
+  
+}
+
+
+.btn{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  
+}
+.upload-btn{
+  margin-left: 1rem;
+}
+@media screen and (max-width: 768px) {
+  .custom-table {
+    overflow-x: auto; /* Enable horizontal scrolling */
+  }
+
+  .ant-table-thead th,
+  .ant-table-tbody td {
+    white-space: nowrap; /* Prevent text wrapping in cells */
+    overflow: hidden; /* Hide overflow content */
+    text-overflow: ellipsis; /* Display ellipsis for overflow text */
+  }
+
+  .ant-table-thead th,
+  .ant-table-tbody td {
+    max-width: 150px; /* Set a maximum width for cells */
+  }
+
+  .ant-table-thead th,
+  .ant-table-tbody td,
+  .ant-table-cell {
+    text-align: center; /* Center align text */
+  }
+
+  
+}

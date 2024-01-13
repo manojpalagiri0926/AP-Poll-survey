@@ -1,0 +1,14 @@
+.container-fluid {
+   
+    margin: 30px;
+    padding: 30px;
+    background: #fff;
+    max-width:96%;
+    min-height: 80vh; 
+    border: 3px solid #dedddd;
+    border-radius: 7px; 
+    
+  }
+  .Layout{
+    background: #F5F5F5;
+  }

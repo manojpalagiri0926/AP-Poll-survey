@@ -1,0 +1,19 @@
+.Userhead {
+    text-align: center;
+  }
+ /* UserRegistration.css */
+ .page-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.custom-form {
+  width: 80%; /* Adjust the width as needed */
+  max-width: 60%;
+  padding: 16px;
+  border: 1px solid #1b1a1a; /* Add border styling as needed */
+  text-align: center;
+  margin-top:10%; /* Adjust the top margin as needed */
+}

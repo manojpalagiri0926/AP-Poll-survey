@@ -1,0 +1,59 @@
+.party-logo{
+  height: 55px;
+  float: left;
+  border-radius: 50%;
+  border: 2px white solid;
+  margin: 2% 6% 8% 2% ;
+  
+}
+.name h4{
+  margin-left: 10%;
+  color: white;
+  font-size: 14px;
+  margin-top: 5%;
+  
+}
+.new1{
+  margin-left: -100px;
+  border: -3px solid;
+  width: 300px;
+  border-color:gray;
+  border-width: -1px;
+  opacity: 0.3;
+}
+
+.name h4 {
+  padding: 16px;
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+}
+
+/* Style for h4 when sidebar is collapsed */
+.sidebar.collapsed .name h4 {
+  font-size: 14px;
+}
+
+.ant-menu-dark .ant-menu-item-selected {
+  background-color: #01AF00; /* Change to your desired green color */
+}
+
+.sidebar-wrapper {
+  background: linear-gradient(to bottom,#013157 65%,#00572E);
+  height: 100%;
+
+  /* Set the height */
+ /* Adjust padding as needed */
+}
+.sidebar-wrapper a{
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 700;
+  color: white;
+  margin-top: 5px;
+}
+.sidebar-wrapper #admin{
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+}

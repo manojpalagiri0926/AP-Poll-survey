@@ -1,0 +1,38 @@
+.container-fluid {
+
+    margin: 30px;
+    padding: 30px;
+    background: #fff;
+    max-width: 97%;
+    min-height: 80vh;
+    border: 3px solid #dedddd;
+    border-radius: 7px;
+  
+  }
+  
+  
+  Form.Item{
+    max-width: '30vw';
+   
+  }  
+  
+  
+  .input{
+    margin-left: 5vh;
+  max-width: 64%
+  
+  }
+  #btn{
+   margin-left: 35%;
+  }
+  
+  
+  .selectstyle{
+   margin-left: 9vh;
+   max-width: 60%;
+  }
+  
+  .submit{
+    display: flex;
+   align-items: center;
+  }

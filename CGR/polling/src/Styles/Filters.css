@@ -1,0 +1,11 @@
+
+.selection select {
+    border-radius: 10px; 
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+  }
+
+  .label-bold {
+    font-weight: bold;
+
+  }

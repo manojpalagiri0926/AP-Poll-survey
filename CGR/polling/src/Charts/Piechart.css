@@ -1,0 +1,42 @@
+#piechart1{
+    position: relative;
+    border: 1px solid #ccc;
+    padding: 5px;
+    top: -1597px;
+    max-width: 440px;
+    /*box-shadow:  1px 1px 1px 1px grey, 1px 1px 1px 1px grey;*/
+    left: 35px;
+    border-radius: 10px;
+    left: 325px;
+    background-color: white;
+    height: 296px;
+    
+}
+#btn1{
+    font-size:small;
+    background-color: #0871E7;
+    border-radius: 15px;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    margin-left: 5px;
+
+}
+
+#pie1{
+    position: relative;
+    width: 40px;
+    left: 12px;
+    top:-10px;
+    border: 3px solid #1765be;
+    border-radius: 5px;
+}
+.p1 h2{
+    position: relative;
+    top: 10px;
+    left:10px;
+    font-size: 20px;
+    
+}
+
+/*border: '1px solid #ccc', padding: '10px', marginTop: '20px' }}*/

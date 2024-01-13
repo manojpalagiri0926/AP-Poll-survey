@@ -1,0 +1,53 @@
+/* vvmapping.css */
+
+.container-fluid {
+    margin: 2vh; /* Convert margin to viewport height */
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2vh; /* Convert font size to viewport height */
+    margin-bottom: 2vh; /* Convert margin to viewport height */
+}
+
+.selection,
+.division,
+.sachivalayam,
+.partNo,
+.volunteer,
+.gruhasaradhi {
+    margin-bottom: 1vh; /* Convert margin to viewport height */
+}
+
+.Mandalselect,
+.Divisionselect,
+.Sachivalayamselect,
+.PartNoselect,
+.Volunteerselect,
+.Gruhasarathuluselect {
+    width: 22%; /* Keep as percentage */
+    margin-left: 1vh; /* Convert margin to viewport height */
+}
+
+.district-table {
+    margin-top: 2vh; /* Convert margin to viewport height */
+}
+
+.add {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2vh; /* Convert margin to viewport height */
+}
+
+.ad,
+.Update {
+    width: 48%; /* Keep as percentage */
+}
+
+/* Add other styles as needed */

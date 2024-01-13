@@ -1,0 +1,233 @@
+  
+  @media only screen and (min-width: 601px) and (max-width: 1724px) {
+.bs-reddy{
+    float: right;
+    height: 7vh;
+    margin-top: -4%;
+    border-radius: 50%;
+    margin-right: 1%;
+    border: 3px #04328C solid;
+    box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+}
+
+.cm_logo{
+    float: right;
+    height: 7vh;
+    margin-top: -4%;
+    border-radius: 50%;
+    margin-right: 1%;
+    border: 3px #04328C solid;
+    box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+    
+}
+
+.cv-reddy{
+    float: right;
+    height: 7vh;
+    margin-top: -4%;
+    border-radius: 50%;
+    margin-left: 0;
+    border: 3px #04328C solid;
+    box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+}
+.three{
+    position: relative;
+}
+
+
+.exit button{
+    position: relative;
+    border-radius: 15px;
+    top: 20px;
+    padding: 0.3%;
+    background-color: #0871E7;
+    border:none;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter:"FlipH";
+
+}
+  }
+  @media only screen and (max-width: 900px) {
+    
+  
+    .cv-reddy {
+        float: right;
+        height: 7vh;
+        margin-top: -11%;
+        border-radius: 50%;
+        margin-right: 0%;
+        border: 3px #04328C solid;
+        box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+    }
+  
+    .cm_logo {
+        float: right;
+        height: 7vh;
+        margin-top: -11%;
+        border-radius: 50%;
+        margin-right: 13%;
+        border: 3px #04328C solid;
+        box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+    }
+  
+    .bs-reddy {
+        float: right;
+        height: 7vh;
+        margin-top: -11%;
+        border-radius: 50%;
+        margin-right: 26%;
+        border: 3px #04328C solid;
+        box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+    }
+  
+    .three {
+        position: relative;
+    }
+    .exit button{
+        position: relative;
+        border-radius: 15px;
+        top: 20px;
+        padding: 0.3%;
+        background-color: #0871E7;
+        border:none;
+        -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter:"FlipH";
+        padding: 3px;
+    
+    }
+  
+    
+  }
+  
+    
+
+  @media only screen and (max-width: 750px) {
+    
+  
+    .cv-reddy {
+        float: right;
+        height: 7vh;
+        margin-top: -12.5%;
+        border-radius: 50%;
+        margin-right: 0%;
+        border: 3px #04328C solid;
+        box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+    }
+  
+    .cm_logo {
+        float: right;
+        height: 7vh;
+        margin-top: -12.5%;
+        border-radius: 50%;
+        margin-right: 5%;
+        border: 3px #04328C solid;
+        box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+    }
+  
+    .bs-reddy {
+        float: right;
+        height: 7vh;
+        margin-top: -12.5%;
+        border-radius: 50%;
+        margin-right: 5%;
+        border: 3px #04328C solid;
+        box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+    }
+  
+    .three {
+        position: relative;
+    }
+    .exit button{
+        position: relative;
+        border-radius: 15px;
+        top: 20px;
+        padding: 0.3%;
+        background-color: #0871E7;
+        border:none;
+        -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter:"FlipH";
+    
+    }
+  
+    
+  }
+
+@media only screen and (max-width: 600px) {
+    /* Styles for screens with a maximum width of 600px */
+  
+    .cv-reddy {
+        float: right;
+        height: 7vh;
+        margin-top: -19%;
+        border-radius: 50%;
+        margin-right: 0%;
+        border: 3px #04328C solid;
+        box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+    }
+  
+    .cm_logo {
+        float: right;
+        height: 7vh;
+        margin-top: -19%;
+        border-radius: 50%;
+        margin-right: 5%;
+        border: 3px #04328C solid;
+        box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+    }
+  
+    .bs-reddy {
+        float: right;
+        height: 7vh;
+        margin-top: -19%;
+        border-radius: 50%;
+        margin-right: 5%;
+        border: 3px #04328C solid;
+        box-shadow: 1 1px 1px 0 #00572E, 1 1px 1px 0 #00572E;
+    }
+  
+    .three {
+        position: relative;
+    }
+    .exit button{
+        position: relative;
+        border-radius: 15px;
+        top: 20px;
+        padding: 0.3%;
+        background-color: #0871E7;
+        border:none;
+        -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter:"FlipH";
+        padding: 3px;
+    
+    }
+  
+    
+  }
+  
+    
+  
+
+
+
+
+  
+
+
+
+
